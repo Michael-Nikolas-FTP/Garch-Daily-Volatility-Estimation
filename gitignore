@@ -1,0 +1,21 @@
+
+# data — too large / not redistributable
+prices_fixed.csv
+ticker_sectors_filled.csv
+prices.csv
+*.csv
+
+# outputs
+*.png
+GARCH_Results_All_Stocks.csv
+GARCH_Model_Summary.csv
+GARCH_Sector_Summary.csv
+GARCH_Best_Models_By_Sector.csv
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+venv/
